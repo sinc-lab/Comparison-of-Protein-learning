@@ -11,7 +11,7 @@ Intelligence, [sinc(i)](https://sinc.unl.edu.ar).
 </p>
 
 
-## Intro
+## Introduction
 
 Representation learning techniques are being used for encoding different types
 of protein information (sequence, domains, interactions, etc.) as
@@ -24,13 +24,19 @@ several protein sequence embeddings on several bioinformatics tasks:
 
 * predicting ontology-based protein functions.
 
+## Notebook
+
+This
+[notebook](https://colab.research.google.com/github/sinc-lab/Comparison-of-Protein-learning/blob/master/notebooks/01_projections_with_PFAM_domains.ipynb)
+reproduces the analysis showing the capability of protein sequence embeddings
+for capturing protein domain information.
 
 ## Protein sequence embeddings
 
-This
-[link](https://drive.google.com/drive/folders/10lBH8WLrSqS2Mjz6m-QpTBeOmWZbOKHF)
-contains the following protein sequence embeddings used for all the analyses
-in the studies:
+The study used 9,479 [human protein sequences](seqs/Proteins_HS_700.fas) to
+build
+[embeddings](https://drive.google.com/drive/folders/10lBH8WLrSqS2Mjz6m-QpTBeOmWZbOKHF)
+with the following methods:
 
 * [CPCProt](https://drive.google.com/file/d/16Fh16n6cMiDgkb3KAJrGnfK9xqFvyt4L)
   ([Lu et al., 2020](https://doi.org/10.1101/2020.09.04.283929))
@@ -67,10 +73,3 @@ in the studies:
 
 * [UniRep](https://drive.google.com/file/d/1D5cxlq5rnbfMjcC-V9BjTJlpKhHdOX73)
   ([Alley et al., 2019](https://doi.org/10.1038/s41592-019-0598-1))
-
-## Notebook
-
-This
-[notebook](https://colab.research.google.com/github/sinc-lab/Comparison-of-Protein-learning/blob/master/notebooks/01_projections_with_PFAM_domains.ipynb)
-reproduces the analysis showing the capability of protein sequence embeddings
-for capturing protein domain information.
