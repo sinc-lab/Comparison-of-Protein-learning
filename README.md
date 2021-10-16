@@ -25,7 +25,14 @@ several protein sequence embeddings on several bioinformatics tasks:
 * predicting ontology-based protein functions.
 
 
+## Protein sequence embeddings
+
+This [link](https://drive.google.com/drive/folders/10lBH8WLrSqS2Mjz6m-QpTBeOmWZbOKHF) contains the protein
+sequence embeddings used for all the analyses in the studies.
+
 ## Notebook
 
-This [notebook]() reproduces the result showing the capability of protein
-sequence embeddings for capturing protein domain information.
+This
+[notebook](https://colab.research.google.com/github/sinc-lab/Comparison-of-Protein-learning/blob/main/notebooks/01_projections_with_PFAM_domains.ipynb)
+reproduces the analysis showing the capability of protein sequence embeddings
+for capturing protein domain information.
