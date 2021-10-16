@@ -33,6 +33,6 @@ sequence embeddings used for all the analyses in the studies.
 ## Notebook
 
 This
-[notebook](https://colab.research.google.com/github/sinc-lab/Comparison-of-Protein-learning/blob/main/notebooks/01_projections_with_PFAM_domains.ipynb)
+[notebook](https://colab.research.google.com/github/sinc-lab/Comparison-of-Protein-learning/blob/master/notebooks/01_projections_with_PFAM_domains.ipynb)
 reproduces the analysis showing the capability of protein sequence embeddings
 for capturing protein domain information.
