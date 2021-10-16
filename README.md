@@ -6,6 +6,10 @@ learned representations for protein sequences,"* by E. Fenoy, A. Edera and
 G. Stegmayer (under review). Research Institute for Signals, Systems and
 Computational Intelligence, [sinc(i)](https://sinc.unl.edu.ar).
 
+<p align="center">
+<img src="./img/premb_projs.png" width="400"/>
+</p>
+
 
 ## Intro
 
