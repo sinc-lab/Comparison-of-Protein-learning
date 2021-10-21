@@ -37,7 +37,7 @@ The study used 9,479 [human protein sequences](seqs/Proteins_HS_700.fas) to
 build
 [embeddings](https://drive.google.com/drive/folders/10lBH8WLrSqS2Mjz6m-QpTBeOmWZbOKHF)
 with twelve embedding methods. **Note:** Click the embedding method name below
-to download the embeddings.
+to download its embeddings.
 
 <table>
 <tr>
