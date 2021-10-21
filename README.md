@@ -45,6 +45,9 @@ to download its embeddings.
 Embedding
 </th>
 <th>
+Dimensionality
+</th>
+<th>
 Reference
 </th>
 </tr>
@@ -54,6 +57,9 @@ Reference
 
 [CPCProt](https://drive.google.com/file/d/16Fh16n6cMiDgkb3KAJrGnfK9xqFvyt4L)
 
+</td>
+<td>
+512
 </td>
 <td>
 
@@ -70,6 +76,9 @@ Reference
 
 </td>
 <td>
+8,192
+</td>
+<td>
 
 [Kulmanov & Hoehndorf, 2019](https://doi.org/10.1093/bioinformatics/btaa763)
 
@@ -81,6 +90,9 @@ Reference
 
 [ESM](https://drive.google.com/file/d/1JnvtaWP1Vc9tq4_PJVVO4zWTlCaac_3u)
 
+</td>
+<td>
+1,280
 </td>
 <td>
 
@@ -96,6 +108,9 @@ Reference
 
 </td>
 <td>
+64
+</td>
+<td>
 
 [Yang et al., 2018](https://doi.org/10.1093/bioinformatics/bty455)
 
@@ -107,6 +122,9 @@ Reference
 
 [Plus-CNN](https://drive.google.com/file/d/1bqgsa7LZHUM6JAp7RYfLch8qNrZIpc9N)
 
+</td>
+<td>
+1,024
 </td>
 <td>
 
@@ -122,6 +140,9 @@ Reference
 
 </td>
 <td>
+1,024
+</td>
+<td>
 
 [Elnaggar et al., 2021](https://doi.org/10.1109/tpami.2021.3095381)
 
@@ -133,6 +154,9 @@ Reference
 
 [ProtVec](https://drive.google.com/file/d/1t9slf5ER980D_XqwZcL1pd1E7J3nwzil)
 
+</td>
+<td>
+300
 </td>
 <td>
 
@@ -148,6 +172,9 @@ Reference
 
 </td>
 <td>
+50
+</td>
+<td>
 
 [Mirabello & Wallner, 2019](https://doi.org/10.1371/journal.pone.0220182)
 
@@ -159,6 +186,9 @@ Reference
 
 [RBM](https://drive.google.com/file/d/1xbLLzUYm_47XKp0Y1x5CqPqMcCsh_4S9)
 
+</td>
+<td>
+100
 </td>
 <td>
 
@@ -174,6 +204,9 @@ Reference
 
 </td>
 <td>
+1,024
+</td>
+<td>
 
 [Heinzinger et al., 2019](https://doi.org/10.1186/s12859-019-3220-8)
 
@@ -187,6 +220,9 @@ Reference
 
 </td>
 <td>
+768
+</td>
+<td>
 
 [Rao et al., 2019](https://pubmed.ncbi.nlm.nih.gov/33390682/)
 
@@ -198,6 +234,9 @@ Reference
 
 [UniRep](https://drive.google.com/file/d/1D5cxlq5rnbfMjcC-V9BjTJlpKhHdOX73)
 
+</td>
+<td>
+1,900
 </td>
 <td>
 
