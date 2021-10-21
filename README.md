@@ -15,7 +15,7 @@ Computational Intelligence, [sinc(i)](https://sinc.unl.edu.ar).
 
 Representation learning techniques are being used for encoding different types
 of protein information (sequence, domains, interactions, etc.) as
-low-dimensional vectors. In this study, we performed a detailed comparison of
+low-dimensional vectors. In this review, we performed a detailed comparison of
 several protein sequence embeddings on several bioinformatics tasks:
 
 * determining similarities between proteins in the embeddings projected space.
@@ -33,11 +33,13 @@ for capturing protein domain information.
 
 ## Protein sequence embeddings
 
-The study used 9,479 [human protein sequences](seqs/Proteins_HS_700.fas) to
+The review used 9,479 [human protein sequences](seqs/Proteins_HS_700.fas) to
 build
 [embeddings](https://drive.google.com/drive/folders/10lBH8WLrSqS2Mjz6m-QpTBeOmWZbOKHF)
-with twelve embedding methods. **Note:** Click the method name below to
-download its embeddings.
+with twelve embedding methods.
+
+**Note:** Click the method name below to download its embeddings used in the
+review.
 
 <table>
 <tr>
