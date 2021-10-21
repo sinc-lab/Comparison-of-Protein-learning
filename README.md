@@ -36,7 +36,8 @@ for capturing protein domain information.
 The study used 9,479 [human protein sequences](seqs/Proteins_HS_700.fas) to
 build
 [embeddings](https://drive.google.com/drive/folders/10lBH8WLrSqS2Mjz6m-QpTBeOmWZbOKHF)
-with the following methods:
+with twelve embedding methods. **Note:** Click the embedding method name below
+to download the embeddings.
 
 <table>
 <tr>
@@ -56,7 +57,7 @@ Reference
 </td>
 <td>
 
-([Lu et al., 2020](https://doi.org/10.1101/2020.09.04.283929))
+[Lu et al., 2020](https://doi.org/10.1101/2020.09.04.283929)
 
 </td>
 </tr>
@@ -70,7 +71,7 @@ Reference
 </td>
 <td>
 
-([Kulmanov & Hoehndorf, 2019](https://doi.org/10.1093/bioinformatics/btaa763))
+[Kulmanov & Hoehndorf, 2019](https://doi.org/10.1093/bioinformatics/btaa763)
 
 </td>
 </tr>
@@ -83,7 +84,7 @@ Reference
 </td>
 <td>
 
-([Rives et al., 2021](https://doi.org/10.1073/pnas.2016239118))
+[Rives et al., 2021](https://doi.org/10.1073/pnas.2016239118)
 
 </td>
 </tr>
@@ -96,7 +97,7 @@ Reference
 </td>
 <td>
 
-([Yang et al., 2018](https://doi.org/10.1093/bioinformatics/bty455))
+[Yang et al., 2018](https://doi.org/10.1093/bioinformatics/bty455)
 
 </td>
 </tr>
@@ -109,7 +110,7 @@ Reference
 </td>
 <td>
 
-([Min et al., 2021](http://doi.org/10.1109/ACCESS.2021.3110269))
+[Min et al., 2021](http://doi.org/10.1109/ACCESS.2021.3110269)
 
 </td>
 </tr>
@@ -122,7 +123,7 @@ Reference
 </td>
 <td>
 
-([Elnaggar et al., 2021](https://doi.org/10.1109/tpami.2021.3095381))
+[Elnaggar et al., 2021](https://doi.org/10.1109/tpami.2021.3095381)
 
 </td>
 </tr>
@@ -135,7 +136,7 @@ Reference
 </td>
 <td>
 
-([Asgari & Mofrad, 2015](https://doi.org/10.1371/journal.pone.0141287))
+[Asgari & Mofrad, 2015](https://doi.org/10.1371/journal.pone.0141287)
 
 </td>
 </tr>
@@ -148,7 +149,7 @@ Reference
 </td>
 <td>
 
-([Mirabello & Wallner, 2019](https://doi.org/10.1371/journal.pone.0220182))
+[Mirabello & Wallner, 2019](https://doi.org/10.1371/journal.pone.0220182)
 
 </td>
 </tr>
@@ -161,7 +162,7 @@ Reference
 </td>
 <td>
 
-([Tubiana et al., 2019](https://doi.org/10.7554/eLife.39397.001))
+[Tubiana et al., 2019](https://doi.org/10.7554/eLife.39397.001)
 
 </td>
 </tr>
@@ -174,7 +175,7 @@ Reference
 </td>
 <td>
 
-([Heinzinger et al., 2019](https://doi.org/10.1186/s12859-019-3220-8))
+[Heinzinger et al., 2019](https://doi.org/10.1186/s12859-019-3220-8)
 
 </td>
 </tr>
@@ -187,7 +188,7 @@ Reference
 </td>
 <td>
 
-([Rao et al., 2019](https://pubmed.ncbi.nlm.nih.gov/33390682/))
+[Rao et al., 2019](https://pubmed.ncbi.nlm.nih.gov/33390682/)
 
 </td>
 </tr>
@@ -200,7 +201,7 @@ Reference
 </td>
 <td>
 
-([Alley et al., 2019](https://doi.org/10.1038/s41592-019-0598-1))
+[Alley et al., 2019](https://doi.org/10.1038/s41592-019-0598-1)
 
 </td>
 </tr>
