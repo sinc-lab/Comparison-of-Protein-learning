@@ -10,6 +10,10 @@ Computational Intelligence, [sinc(i)](https://sinc.unl.edu.ar).
 <img src="./img/premb_projs.png" width="900"/>
 </p>
 
+In the figure above, points depict 2D non-linear projections calculated from
+12 different protein sequence embeddings. Orange points highlight protein
+sequences harboring the *Immunoglobulin C1-set domain*
+([PF07654](http://pfam.xfam.org/family/PF07654)).
 
 ## Introduction
 
