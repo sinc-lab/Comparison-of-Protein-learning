@@ -126,7 +126,7 @@ Reference
 <tr>
 <td>
 
-[Plus-CNN](https://drive.google.com/file/d/1bqgsa7LZHUM6JAp7RYfLch8qNrZIpc9N)
+[Plus-RNN](https://drive.google.com/file/d/1bqgsa7LZHUM6JAp7RYfLch8qNrZIpc9N)
 
 </td>
 <td>
