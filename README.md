@@ -1,10 +1,7 @@
-# Comparison of protein sequence embeddings
+# Transfer learning in proteomics: comparison of protein sequence embeddings
 
-This repository contains the data and code used in the review of protein
-sequence embeddings entitled *"Transfer learning in proteomics: comparison of
-novel learned representations for protein sequences,"* by E. Fenoy, A. Edera
-and G. Stegmayer (under review). Research Institute for Signals, Systems and
-Computational Intelligence, [sinc(i)](https://sinc.unl.edu.ar).
+
+This repository contains the data and code used in the review of protein sequence embeddings entitled *"Transfer learning in proteomics: comparison of novel learned representations for protein sequences,"* by E. Fenoy, A. Edera and G. Stegmayer (under review). Research Institute for Signals, Systems and Computational Intelligence, [sinc(i)](https://sinc.unl.edu.ar).
 
 <p align="center">
 <img src="./img/premb_projs.png" width="900"/>
@@ -12,38 +9,45 @@ Computational Intelligence, [sinc(i)](https://sinc.unl.edu.ar).
 
 In the figure above, points depict 2D non-linear projections calculated from
 12 different protein sequence embeddings. Orange points highlight protein
-sequences harboring the *Immunoglobulin C1-set domain*
+sequences having the *Immunoglobulin C1-set domain*
 ([PF07654](http://pfam.xfam.org/family/PF07654)).
+
 
 ## Introduction
 
-Representation learning techniques are being used for encoding different types
-of protein information (sequence, domains, interactions, etc.) as
-low-dimensional vectors. In this review, we performed a detailed comparison of
-several protein sequence embeddings on several bioinformatics tasks:
+Recently, representation learning techniques are being proposed for encoding
+different types of protein information (sequence, domains, interactions, etc.)
+as low-dimensional vectors. In this review, we performed a detailed
+experimental comparison of several protein sequence embeddings on several
+bioinformatics tasks:
+
 
 * determining similarities between proteins in the embeddings projected space.
 
 * inferring protein domains.
 
-* predicting ontology-based protein functions.
+* predicting GO ontology-based protein functions.
 
 ## Notebook
 
 This
 [notebook](https://colab.research.google.com/github/sinc-lab/Comparison-of-Protein-learning/blob/master/notebooks/01_projections_with_PFAM_domains.ipynb)
-reproduces the analysis showing the capability of protein sequence embeddings
-for capturing protein domain information.
+reproduces the visual comparative analysis of 12 embeddings in the evaluation
+of the capability of protein sequence embeddings for capturing protein domain
+information.
 
 ## Protein sequence embeddings
+
+The review used 9,479 human protein sequences to build embeddings with 12 embedding methods.
+
 
 The review used 9,479 [human protein sequences](seqs/Proteins_HS_700.fas) to
 build
 [embeddings](https://drive.google.com/drive/folders/10lBH8WLrSqS2Mjz6m-QpTBeOmWZbOKHF)
-with twelve embedding methods.
+with 12 embedding methods.
 
-**Note:** Click the method name below to download its embeddings used in the
-review.
+**Note:** Click the method name below to download the embeddings used in this
+  review.
 
 <table>
 <tr>
