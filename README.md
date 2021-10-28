@@ -1,7 +1,10 @@
 # Transfer learning in proteomics: comparison of protein sequence embeddings
 
-
-This repository contains the data and code used in the review of protein sequence embeddings entitled *"Transfer learning in proteomics: comparison of novel learned representations for protein sequences,"* by E. Fenoy, A. Edera and G. Stegmayer (under review). Research Institute for Signals, Systems and Computational Intelligence, [sinc(i)](https://sinc.unl.edu.ar).
+This repository contains the data and code used in the review of protein
+sequence embeddings entitled *"Transfer learning in proteomics: comparison of
+novel learned representations for protein sequences,"* by E. Fenoy, A. Edera
+and G. Stegmayer (under review). Research Institute for Signals, Systems and
+Computational Intelligence, [sinc(i)](https://sinc.unl.edu.ar).
 
 <p align="center">
 <img src="./img/premb_projs.png" width="900"/>
@@ -11,6 +14,14 @@ In the figure above, points depict 2D non-linear projections calculated from
 12 different protein sequence embeddings. Orange points highlight protein
 sequences having the *Immunoglobulin C1-set domain*
 ([PF07654](http://pfam.xfam.org/family/PF07654)).
+
+<p align="center">
+<img src="./img/5.6_Violinplot_CC.png" width="1100"/>
+</p>
+
+This figure shows the predictive performance of different embeddings for
+predicting GO terms belonging to the Cellular Component (CC)
+sub-ontology. Prediction is measured in terms of the F1 score.
 
 
 ## Introduction
