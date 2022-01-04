@@ -11,17 +11,20 @@ Computational Intelligence, [sinc(i)](https://sinc.unl.edu.ar).
 </p>
 
 In the figure above, points depict 2D non-linear projections calculated from
-12 different protein sequence embeddings. Orange points highlight protein
+the 12 protein sequence embeddings studied. Orange points highlight protein
 sequences having the *Immunoglobulin C1-set domain*
 ([PF07654](http://pfam.xfam.org/family/PF07654)).
 
 <p align="center">
-<img src="./img/5.6_Violinplot_CC.png" width="1100"/>
+<img src="./img/4.4_Violinplot_BP_GO_Prot_PartAverage.png" width="600"/>
+<img src="./img/4.4_Violinplot_CC_GO_Prot_PartAverage.png" width="600"/>
+<img src="./img/4.4_Violinplot_MF_GO_Prot_PartAverage.png" width="600"/>
 </p>
 
-This figure shows the predictive performance of different embeddings for
-predicting GO terms belonging to the Cellular Component (CC)
-sub-ontology. Prediction is measured in terms of the F1 score.
+The figures above show the performance (F1 score) of the 12 embeddings for
+predicting the GO terms of protein sequences. Predictions are grouped
+according to the three sub-ontologies of the GO: Biological Process (BP),
+Cellular Component (CC) and Molecular Function (MF).
 
 
 ## Introduction
@@ -48,9 +51,6 @@ of the capability of protein sequence embeddings for capturing protein domain
 information.
 
 ## Protein sequence embeddings
-
-The review used 9,479 human protein sequences to build embeddings with 12 embedding methods.
-
 
 The review used 9,479 [human protein sequences](seqs/Proteins_HS_700.fas) to
 build
