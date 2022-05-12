@@ -157,7 +157,7 @@ Reference
 <tr>
 <td>
 
-[ProtTrans](https://drive.google.com/file/d/1eLLNTlgtWn4tQoWznzBqHC0GSjMJH2Le)
+[ProtTrans](https://drive.google.com/file/d/1bqgsa7LZHUM6JAp7RYfLch8qNrZIpc9N)
 
 </td>
 <td>
