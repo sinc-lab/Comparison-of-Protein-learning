@@ -7,7 +7,7 @@ and G. Stegmayer (under review). Research Institute for Signals, Systems and
 Computational Intelligence, [sinc(i)](https://sinc.unl.edu.ar).
 
 <p align="center">
-<img src="./img/premb_projs.png" width="900"/>
+<img src="./img/premb_projs.png" width="700"/>
 </p>
 
 In the figure above, points depict 2D non-linear projections calculated from
@@ -16,9 +16,7 @@ sequences having the *Immunoglobulin C1-set domain*
 ([PF07654](http://pfam.xfam.org/family/PF07654)).
 
 <p align="center">
-<img src="./img/4.4_Violinplot_BP_GO_Prot_PartAverage.png" width="600"/>
-<img src="./img/4.4_Violinplot_CC_GO_Prot_PartAverage.png" width="600"/>
-<img src="./img/4.4_Violinplot_MF_GO_Prot_PartAverage.png" width="600"/>
+<img src="./img/go.png" width="700"/>
 </p>
 
 The figures above show the performance (F1 score) of the 12 embeddings for
