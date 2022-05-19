@@ -20,10 +20,10 @@ sequences having the *Immunoglobulin C1-set domain*
 </p>
 
 The figures above show the performance of the 12 embeddings used for
-predicting the GO terms annotating protein sequences. Predictions are measured
-with the F1 score and are grouped according to the three sub-ontologies of the
-GO terms: Biological Process (BP), Cellular Component (CC) and Molecular
-Function (MF).
+predicting the GO terms annotating protein sequences. Performance is measured
+with the F1 score and predictions are grouped according to the three
+sub-ontologies of the GO terms: Biological Process (BP), Cellular Component
+(CC) and Molecular Function (MF).
 
 
 ## Introduction
